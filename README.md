@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://t.me/OlegBorisov_hr" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" target="_blank"/>
     </a>
     <a href="mailto:hr@oleg-borisov.ru">
       <img src="https://img.shields.io/badge/Yandex-FF0000?style=for-the-badge" alt="Я.Почта" />
