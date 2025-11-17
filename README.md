@@ -4,17 +4,16 @@
   <p><em>Senior Data Scientist & Head of BI & Analytics</em></p>
   
 <div>
-    <a href="https://www.linkedin.com/in/borisovoleghr" target="_blank">
+    <a href="https://www.linkedin.com/in/borisovoleghr" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://t.me/OlegBorisov_hr" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" target="_blank"/>
+    <a href="https://t.me/OlegBorisov_hr" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
-    <a href="mailto:hr@oleg-borisov.ru">
+    <a href="mailto:hr@oleg-borisov.ru" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Yandex-FF0000?style=for-the-badge" alt="Я.Почта" />
     </a>
-    <!-- Добавьте другие ссылки при желании -->
-  </div>
+</div>
 
   <img src="https://komarev.com/ghpvc/?username=HRMetriX&style=flat-square&color=blue" alt="Profile views" />
 </div>
