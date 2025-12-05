@@ -50,7 +50,7 @@ Trusted by **Yandex, Gazprom Neft, Plarium**, and **Петрович** to establ
 
 ---
 🌱 **Currently exploring**:  
-Building an **NLP pipeline for news deduplication** — parsing only new, unseen content to avoid redundancy at scale.
+Currently building a **classifier that distinguishes real Data Analyst roles** from adjacent positions (finance, BI, 1C) using scraped HH.ru data. Pipeline: Playwright → deduplication (Jaccard) → manual labeling → ML model.
 
 ---
 <details>
